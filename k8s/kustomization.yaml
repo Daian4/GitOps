@@ -5,3 +5,7 @@ resources:
 - deployment.yaml
 - service.yaml
 
+images:
+- name: goserver
+  newName: daimnezes/gitopsfc
+  newTag: newTag
