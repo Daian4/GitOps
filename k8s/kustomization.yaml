@@ -7,5 +7,5 @@ resources:
 
 images:
 - name: goserver
-  newName: daimnezes/gitopsfc
-  newTag: newTag
+  newName: /gitopsfc
+  newTag: ee76dc9c56a79ec5830855dbb98be858e8acdcd8
